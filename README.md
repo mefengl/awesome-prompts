@@ -21,3 +21,10 @@ remove the sepicific details in above code, make it a genera purpose prompt form
 
 next, each time, I will give you github and greasyfork link, compelete above badages, give me the badages in codeblock, and wait for new links, if you understand, say YES
 ```
+
+```
+<codes>
+
+Add the most detailed annotations in <language>
+other infomation and a code structure in the end
+```
