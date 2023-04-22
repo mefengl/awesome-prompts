@@ -27,3 +27,5 @@ next, each time, I will give you github and greasyfork link, compelete above bad
 
 Add the most detailed inline comments in <language>, show them in codeblock
 ```
+
+https://pastebin.com/gbWCghD7
