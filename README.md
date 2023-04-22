@@ -29,3 +29,14 @@ Add the most detailed inline comments in <language>, show them in codeblock
 ```
 
 https://pastebin.com/gbWCghD7
+
+```
+it's a pull reuqest I made, 
+the reason is that:  
+
+may be there are better way to prevent the same thing
+
+<code_diff>
+
+turn above content into a simple and friendly pull request comments to the library owner
+```
