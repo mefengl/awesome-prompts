@@ -25,6 +25,5 @@ next, each time, I will give you github and greasyfork link, compelete above bad
 ```
 <codes>
 
-Add the most detailed annotations in <language>
-other infomation and a code structure in the end
+Add the most detailed inline comments in <language>, show them in codeblock
 ```
