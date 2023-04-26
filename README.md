@@ -40,3 +40,9 @@ may be there are better way to prevent the same thing
 
 turn above content into a simple and friendly pull request comments to the library owner
 ```
+
+```
+<code>
+
+you are a refactor export, know the art of code, the art of clean code, now, tell me how will you treat above code, give me points, I will pick from them, and then you can do you refactor
+```
