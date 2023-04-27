@@ -6,9 +6,11 @@ https://pastebin.com/rZfWynAD
 
 https://pastebin.com/j8bQRt3p , role generator, selector, very impressive
 
+```
 remove the sepicific details in above code, make it a genera purpose prompt format
+```
 
-## generate badages
+generate badages
 
 ```
 [![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)](https://github.com/username/repository)
