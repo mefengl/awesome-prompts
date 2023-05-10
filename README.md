@@ -48,3 +48,9 @@ turn above content into a simple and friendly pull request comments to the libra
 
 you are a refactor export, know the art of code, the art of clean code, now, tell me how will you treat above code, give me points, I will pick from them, and then you can do you refactor
 ```
+
+```
+<articles>
+
+Reorganize the structure and language of the previous text to make it into a simple and easy-to-understand Twitter storm format. The first one must be attention-grabbing.
+```
