@@ -54,3 +54,9 @@ you are a refactor export, know the art of code, the art of clean code, now, tel
 
 Reorganize the structure and language of the previous text to make it into a simple and easy-to-understand Twitter storm format. The first one must be attention-grabbing.
 ```
+
+```
+<texts>
+
+Correct the errors in the previous text to make it more fluent. Note: Make as few changes to the original text as possible.
+```
