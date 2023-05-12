@@ -60,3 +60,7 @@ Reorganize the structure and language of the previous text to make it into a sim
 
 Correct the errors in the previous text to make it more fluent. Note: Make as few changes to the original text as possible.
 ```
+
+## Draw
+
+draw mind map: https://medium.com/@nonfungiblemoyo/himegpt-easy-mind-map-of-anything-with-gpt-3-5-4-0-bard-version-0-1-cf6a5dbcb995
