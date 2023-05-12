@@ -64,3 +64,7 @@ Correct the errors in the previous text to make it more fluent. Note: Make as fe
 ## Draw
 
 draw mind map: https://medium.com/@nonfungiblemoyo/himegpt-easy-mind-map-of-anything-with-gpt-3-5-4-0-bard-version-0-1-cf6a5dbcb995
+
+## Meta
+
+make the prompt better: https://pastebin.com/4hmMwQBx
