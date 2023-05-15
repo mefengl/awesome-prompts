@@ -49,6 +49,8 @@ turn above content into a simple and friendly pull request comments to the libra
 you are a refactor export, know the art of code, the art of clean code, now, tell me how will you treat above code, give me points, I will pick from them, and then you can do you refactor
 ```
 
+## Rewrite
+
 ```
 <articles>
 
@@ -59,6 +61,12 @@ Reorganize the structure and language of the previous text to make it into a sim
 <texts>
 
 Correct the errors in the previous text to make it more fluent. Note: Make as few changes to the original text as possible.
+```
+
+```
+<texts>
+
+Make the previous text more friendly and casual. Note: Make as few changes to the original text as possible.
 ```
 
 ## Draw
