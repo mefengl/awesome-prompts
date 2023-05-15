@@ -66,7 +66,7 @@ Correct the errors in the previous text to make it more fluent. Note: Make as fe
 ```
 <texts>
 
-Make the previous text more friendly and casual. Note: Make as few changes to the original text as possible.
+Make the previous text sound more natural and easy-going. Just a heads up, try to keep changes to a minimum.
 ```
 
 ## Draw
