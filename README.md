@@ -76,3 +76,14 @@ draw mind map: https://medium.com/@nonfungiblemoyo/himegpt-easy-mind-map-of-anyt
 ## Meta
 
 make the prompt better: https://pastebin.com/4hmMwQBx
+
+## format
+
+```
+<action> the text delimited by [[[ and ]]]:
+
+Text to <action>:
+[[[
+<text>
+]]]
+```
