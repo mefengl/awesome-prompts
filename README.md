@@ -77,6 +77,12 @@ draw mind map: https://medium.com/@nonfungiblemoyo/himegpt-easy-mind-map-of-anyt
 
 make the prompt better: https://pastebin.com/4hmMwQBx
 
+```
+<context>
+
+<problem>, can you think of some way to fix it? tell me, let me choose
+```
+
 ## format
 
 ```
