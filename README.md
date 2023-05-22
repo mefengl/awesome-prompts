@@ -93,3 +93,17 @@ Text to <action>:
 <text>
 ]]]
 ```
+
+## new ways
+
+I don't find they use case, but I think they are inspiring
+
+Specified format
+
+```
+<text>
+
+Convert the previous text to the following format:
+
+First I want to say ______________. Interesting, isn't it? However, ________________.
+```
