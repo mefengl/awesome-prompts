@@ -107,3 +107,21 @@ Convert the previous text to the following format:
 
 First I want to say ______________. Interesting, isn't it? However, ________________.
 ```
+
+now I found a use case, that is turn the text into other format that can be used in other apps, such as Anki, below is an example from [karpathy](https://twitter.com/karpathy/status/1663262981302681603):
+
+```
+Please help me create Anki cards for some material that I am studying. I would like to use these cards to remember facts and information in this material. Each Anki card should be of the format:
+
+{FRONT} ; {BACK}
+
+Where {FRONT} is the front of the card, and {BACK} is the back of the card, and they are separated by a semi-colon. The way it works is that Anki will show me the {FRONT} of the card, which contains some kind of question, and I will have to correctly recall the {BACK} of the card. Please give me the Anki cards one per line so it is easy for me to copy paste and import them into Anki. Make sure to be thorough and cover most of the information in the given material. Here are some examples of good Anki cards:
+
+What is the capital city of California? ; Sacramento
+How many U.S. states are there? ; 50
+What is the smallest U.S. state? ; Wyoming
+
+Etc. Now here is the material I’d like you to create Anki cards for:
+
+Carbon (from Latin carbo 'coal') is a chemical element with the symbol C and atomic number 6. It is nonmetallic and tetravalent—its atom making four electrons available to form covalent chemical bonds. It belongs to group 14 of the periodic table.[14] Carbon makes up about 0.025 percent of Earth's crust.[15] Three isotopes occur naturally, 12C and 13C being stable, while 14C is a radionuclide, decaying with a half-life of about 5,730 years.[16] Carbon is one of the few elements known since antiquity.[17]
+```
