@@ -94,6 +94,28 @@ Text to <action>:
 ]]]
 ```
 
+## think
+
+from https://www.promptvibes.com/view-and-test?recordId=recbW0Wtcgm9ESZlv :
+```
+I have the following problem:
+<question>
+
+Go through the following phases to solve it:
+
+1) Brainstorm four distinct solutions while considering various factors.
+
+2) For each of the proposed solutions, evaluate their potential. Consider the pros and cons, initial effort needed, implementation difficulty, potential challenges, and the expected outcomes. Assign a probability of success and a confidence level to each option based on these factors and rank them. Announce the two highest ranked solutions.
+
+3) For the two highest ranked solutions do the following: Expand each solution into two distinct implementation variants considering different aspects.
+
+4) For each implementation variant of each solution deepen the thought process and generate potential scenarios, strategies for implementation, and how potential obstacles might be overcome. Also, consider any potential unexpected outcomes and how they might be handled. Assign a probability of success and a confidence level to each implementation variant based on these factors and rank them. Announce the highest ranked implementation variant for each solution.
+
+5) Based on the given solutions and their implementation variants chose the most promising solution with the most promising implementation variant.
+
+6) In the end, summarize the final solution in the final implementation variant.
+```
+
 ## new ways
 
 I don't find they use case, but I think they are inspiring
