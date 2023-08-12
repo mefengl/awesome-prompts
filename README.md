@@ -116,6 +116,10 @@ Go through the following phases to solve it:
 6) In the end, summarize the final solution in the final implementation variant.
 ```
 
+## transcript
+
+https://www.promptvibes.com/view-and-test?recordId=recZNvQenmucKck19
+
 ## new ways
 
 I don't find they use case, but I think they are inspiring
