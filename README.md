@@ -151,3 +151,19 @@ Etc. Now here is the material I’d like you to create Anki cards for:
 
 Carbon (from Latin carbo 'coal') is a chemical element with the symbol C and atomic number 6. It is nonmetallic and tetravalent—its atom making four electrons available to form covalent chemical bonds. It belongs to group 14 of the periodic table.[14] Carbon makes up about 0.025 percent of Earth's crust.[15] Three isotopes occur naturally, 12C and 13C being stable, while 14C is a radionuclide, decaying with a half-life of about 5,730 years.[16] Carbon is one of the few elements known since antiquity.[17]
 ```
+
+prompt format
+
+```
+PROMPT = """
+
+Human: <context>
+{context}
+</context>
+
+{question}
+
+Assistant: Here is the most relevant answer in the context:"""
+```
+
+from: https://x.com/JacquesThibs/status/1732532431532576928
