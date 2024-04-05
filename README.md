@@ -167,3 +167,7 @@ Assistant: Here is the most relevant answer in the context:"""
 ```
 
 from: https://x.com/JacquesThibs/status/1732532431532576928
+
+translator bot
+
+https://docs.kanaries.net/articles/chatgpt-jailbreak-prompt#translator-bot
